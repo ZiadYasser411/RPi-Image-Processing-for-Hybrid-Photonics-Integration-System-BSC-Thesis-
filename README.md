@@ -39,10 +39,6 @@ The project is part of a broader initiative to develop an AI-assisted Automated 
     git clone https://github.com/ZiadYasser411/RPi-Image-Processing-for-Hybrid-Photonics-Integration-System-BSC-Thesis-.git
     cd RPi-Image-Processing-for-Hybrid-Photonics-Integration-System-BSC-Thesis-
 
-### Install Requirements
-
-    pip install -r requirements.txt
-
 ### Dependencies
 
 - opencv-python  
