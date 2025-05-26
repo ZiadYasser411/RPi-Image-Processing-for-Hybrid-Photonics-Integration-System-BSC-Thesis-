@@ -1,6 +1,6 @@
 # 📷 RPi Image Processing for Hybrid Photonics Integration System
 
-This repository contains the implementation of a computer vision system for automated optical alignment in hybrid photonics integration, using Raspberry Pi 5 and deep learning. It is based on the Bachelor’s Thesis submitted by Ziad Yasser Fawzi Gafar to the German University in Cairo.
+This repository contains the implementation of a computer vision system for automated optical alignment in hybrid photonics integration, using Raspberry Pi 5 and deep learning. It is the core of the Bachelor’s Thesis submitted by Ziad Yasser Fawzi Gafar to the German University in Cairo.
 
 ---
 
